@@ -2,16 +2,16 @@
 <h3 align="center">Aspiring AI/ML Engineer | Learning in Public | Building Real Projects</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6D28D9&center=true&vCenter=true&width=500&lines=Learning+AI+%2F+ML+Engineering;Documenting+Every+Step+on+GitHub; Currently+in+Phase+Foundations-Python,+Math+&+Git+of+my+Roadmap;Open+to+Collaborate+%26+Connect!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6D28D9&center=true&vCenter=true&width=500&lines=Learning+AI+%2F+ML+Engineering;Documenting+Every+Step+on+GitHub;Currently+in+Phase+%5BX%5D+of+my+Roadmap;Open+to+Collaborate+%26+Connect!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🎯 About Me
 
-- 🔭 I'm currently learning **Foundations — Python, Math & Git** of my self-built AI/ML Engineering Roadmap
+- 🔭 I'm currently learning **Foundations (Python, Math, Git)** of my self-built AI/ML Engineering Roadmap
 - 🌱 Following a structured 7-phase roadmap: Foundations → Data Analysis → ML → Deep Learning → Specialization → MLOps → Portfolio
-- 🚀 Documenting the whole journey here on GitHub
+- 🚀 Documenting the whole journey here on GitHub and on [LinkedIn](https://www.linkedin.com/in/muhammad-malahim-bhatti/) 
 - 💬 Ask me about: Python, NumPy/Pandas, Scikit-learn, or whatever I'm learning this week (check "Current Focus" below!)
 - 📫 Reach me at: **mmbhatti102@gmail.com**
 
@@ -19,8 +19,8 @@
 
 ### 📍 Current Focus
 
-> **Phase:** PHASE 1: Foundations — Python, Math & Git
-> **This week I'm learning:** = Python
+> **Phase:** Foundations (Python, Math, Git)
+> **This week I'm learning:** Phython
 > **Currently building:** -
 
 ---
@@ -36,7 +36,8 @@
 - [ ] **Phase 6** — MLOps & Deployment
 - [ ] **Phase 7** — Portfolio, Job Hunt & Interviews
 
-      
+<!-- *(Update the checkboxes as you progress — this is the first thing recruiters and visitors will see.)* -->
+
 ---
 
 <!-- ### 🚀 Featured Projects
@@ -80,14 +81,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malahim102&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
-*(Replace `malahim102` in the three lines above with your actual GitHub username so the stats cards work.)*
+<!-- *(Replace `malahim102` in the three lines above with your actual GitHub username so the stats cards work.)* -->
 
 ---
 
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-handle/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-malahim-bhatti/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mmbhatti102@gmail.com">
