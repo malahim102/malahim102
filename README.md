@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring AI/ML Engineer | Learning in Public | Building Real Projects</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6D28D9&center=true&vCenter=true&width=500&lines=Learning+AI+%2F+ML+Engineering;Documenting+Every+Step+on+GitHub;Currently+in+Phase+PHASE 1: Foundations — Python, Math & Git+of+my+Roadmap;Open+to+Collaborate+%26+Connect!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6D28D9&center=true&vCenter=true&width=500&lines=Learning+AI+%2F+ML+Engineering;Documenting+Every+Step+on+GitHub;Currently+in+Phase+Foundations-Python,+Math+&+Git+of+my+Roadmap;Open+to+Collaborate+%26+Connect!" alt="Typing SVG" />
 </p>
 
 ---
