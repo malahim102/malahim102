@@ -2,14 +2,14 @@
 <h3 align="center">Aspiring AI/ML Engineer | Learning in Public | Building Real Projects</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6D28D9&center=true&vCenter=true&width=500&lines=Learning+AI+%2F+ML+Engineering;Documenting+Every+Step+on+GitHub;Currently+in+Phase+Foundations-Python,+Math+&+Git+of+my+Roadmap;Open+to+Collaborate+%26+Connect!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6D28D9&center=true&vCenter=true&width=500&lines=Learning+AI+%2F+ML+Engineering;Documenting+Every+Step+on+GitHub; Currently+in+Phase+Foundations-Python,+Math+&+Git+of+my+Roadmap;Open+to+Collaborate+%26+Connect!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🎯 About Me
 
-- 🔭 I'm currently learning **PHASE 1: Foundations — Python, Math & Git** of my self-built AI/ML Engineering Roadmap
+- 🔭 I'm currently learning **Foundations — Python, Math & Git** of my self-built AI/ML Engineering Roadmap
 - 🌱 Following a structured 7-phase roadmap: Foundations → Data Analysis → ML → Deep Learning → Specialization → MLOps → Portfolio
 - 🚀 Documenting the whole journey here on GitHub
 - 💬 Ask me about: Python, NumPy/Pandas, Scikit-learn, or whatever I'm learning this week (check "Current Focus" below!)
@@ -39,16 +39,16 @@
       
 ---
 
-*(### 🚀 Featured Projects
+<!-- ### 🚀 Featured Projects
 
 | Project | Description | Tech | Link |
 |---|---|---|---|
 | 🏠 House Price Predictor | Regression model predicting housing prices | Python, Scikit-learn | [Repo](https://github.com/your-username/repo-name) |
 | 📊 Dataset Deep-Dive | Full EDA on [dataset name] with key insights | Pandas, Seaborn | [Repo](https://github.com/your-username/repo-name) |
 | 🔢 Digit Recognizer | CNN + live web demo for handwritten digits | PyTorch, Streamlit | [Repo](https://github.com/your-username/repo-name) · [Live Demo](https://your-demo-link.com) |
-| 💬 NLP Resume Matcher | Compares resumes to job descriptions via embeddings | Python, Hugging Face | [Repo](https://github.com/your-username/repo-name) |)*
+| 💬 NLP Resume Matcher | Compares resumes to job descriptions via embeddings | Python, Hugging Face | [Repo](https://github.com/your-username/repo-name) |
 
-*(Add a row every time you finish a phase project. Keep your 4–6 best pinned above your repo grid too.)*
+*(Add a row every time you finish a phase project. Keep your 4–6 best pinned above your repo grid too.)* -->
 
 ---
 
