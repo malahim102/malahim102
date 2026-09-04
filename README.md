@@ -1,34 +1,34 @@
-<h1 align="center">Hi 👋, I'm Malahim</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Malahim</h1>
 <h3 align="center">Aspiring AI/ML Engineer | Learning in Public | Building Real Projects</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6D28D9&center=true&vCenter=true&width=500&lines=Learning+AI+%2F+ML+Engineering;Documenting+Every+Step+on+GitHub;Currently+in+Phase+%5BX%5D+of+my+Roadmap;Open+to+Collaborate+%26+Connect!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6D28D9&center=true&vCenter=true&width=500&lines=Learning+AI+%2F+ML+Engineering;Documenting+Every+Step+on+GitHub;Currently+in+Phase+1+of+my+Roadmap;Open+to+Collaborate+%26+Connect!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🎯 About Me
 
-- 🔭 I'm currently learning **Foundations (Python, Math, Git)** of my self-built AI/ML Engineering Roadmap
+- 🔭 I'm currently learning **Phase 1 — Foundations (Python, Math & Git)** of my self-built AI/ML Engineering Roadmap
 - 🌱 Following a structured 7-phase roadmap: Foundations → Data Analysis → ML → Deep Learning → Specialization → MLOps → Portfolio
-- 🚀 Documenting the whole journey here on GitHub and on [LinkedIn](https://www.linkedin.com/in/muhammad-malahim-bhatti/) 
-- 💬 Ask me about: Python, NumPy/Pandas, Scikit-learn, or whatever I'm learning this week (check "Current Focus" below!)
+- 🚀 Documenting the whole journey here on GitHub and on [LinkedIn](https://www.linkedin.com/in/muhammad-malahim-bhatti/) using **#100DaysOfAIML**
+- 💬 Ask me about: Python, NumPy/Pandas, or whatever I'm learning this week (check "Current Focus" below!)
 - 📫 Reach me at: **mmbhatti102@gmail.com**
 
 ---
 
 ### 📍 Current Focus
 
-> **Phase:** Foundations (Python, Math, Git)
-> **This week I'm learning:** Phython
-> **Currently building:** -
+> **Phase:** Phase 1 — Foundations (Python, Math & Git)
+> **This week I'm learning:** Python fundamentals & Git/GitHub basics
+> **Currently building:** My first mini-projects (coming soon!)
 
 ---
 
 ### 🗺️ My Roadmap Progress
 
 - [x] **Phase 0** — Build-in-Public Setup (GitHub + LinkedIn)
-- [x] **Phase 1** — Foundations (Python, Math, Git)
+- [ ] **Phase 1** — Foundations (Python, Math, Git)
 - [ ] **Phase 2** — Data Analysis & Visualization
 - [ ] **Phase 3** — Core Machine Learning
 - [ ] **Phase 4** — Deep Learning
@@ -36,20 +36,13 @@
 - [ ] **Phase 6** — MLOps & Deployment
 - [ ] **Phase 7** — Portfolio, Job Hunt & Interviews
 
-<!-- *(Update the checkboxes as you progress — this is the first thing recruiters and visitors will see.)* -->
-
 ---
 
-<!-- ### 🚀 Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description | Tech | Link |
 |---|---|---|---|
-| 🏠 House Price Predictor | Regression model predicting housing prices | Python, Scikit-learn | [Repo](https://github.com/your-username/repo-name) |
-| 📊 Dataset Deep-Dive | Full EDA on [dataset name] with key insights | Pandas, Seaborn | [Repo](https://github.com/your-username/repo-name) |
-| 🔢 Digit Recognizer | CNN + live web demo for handwritten digits | PyTorch, Streamlit | [Repo](https://github.com/your-username/repo-name) · [Live Demo](https://your-demo-link.com) |
-| 💬 NLP Resume Matcher | Compares resumes to job descriptions via embeddings | Python, Hugging Face | [Repo](https://github.com/your-username/repo-name) |
-
-*(Add a row every time you finish a phase project. Keep your 4–6 best pinned above your repo grid too.)* -->
+| 🔜 Coming soon | My first project is on the way — check back soon! | — | — |
 
 ---
 
@@ -80,8 +73,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malahim102&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-
-<!-- *(Replace `malahim102` in the three lines above with your actual GitHub username so the stats cards work.)* -->
 
 ---
 
