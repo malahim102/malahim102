@@ -7,17 +7,17 @@
 
 ---
 
-### 🎯 About Me
+### About Me
 
-- 🔭 I'm currently learning **Phase 1 — Foundations (Python, Math & Git)** of my self-built AI/ML Engineering Roadmap
-- 🌱 Following a structured 7-phase roadmap: Foundations → Data Analysis → ML → Deep Learning → Specialization → MLOps → Portfolio
-- 🚀 Documenting the whole journey here on GitHub and on [LinkedIn](https://www.linkedin.com/in/muhammad-malahim-bhatti/) using **#100DaysOfAIML**
-- 💬 Ask me about: Python, NumPy/Pandas, or whatever I'm learning this week (check "Current Focus" below!)
-- 📫 Reach me at: **mmbhatti102@gmail.com**
+- I'm currently learning **Phase 1 — Foundations (Python, Math & Git)** of my self-built AI/ML Engineering Roadmap
+- Following a structured 7-phase roadmap: Foundations → Data Analysis → ML → Deep Learning → Specialization → MLOps → Portfolio
+- Documenting the whole journey here on GitHub and on [LinkedIn](https://www.linkedin.com/in/muhammad-malahim-bhatti/)
+- Ask me about: Python, NumPy/Pandas, or whatever I'm learning this week (check "Current Focus" below!)
+- Reach me at: **mmbhatti102@gmail.com**
 
 ---
 
-### 📍 Current Focus
+### Current Focus
 
 > **Phase:** Phase 1 — Foundations (Python, Math & Git)
 > **This week I'm learning:** Python fundamentals & Git/GitHub basics
@@ -25,7 +25,7 @@
 
 ---
 
-### 🗺️ My Roadmap Progress
+### My Roadmap Progress
 
 - [x] **Phase 0** — Build-in-Public Setup (GitHub + LinkedIn)
 - [ ] **Phase 1** — Foundations (Python, Math, Git)
@@ -38,15 +38,15 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech | Link |
 |---|---|---|---|
-| 🔜 Coming soon | My first project is on the way — check back soon! | — | — |
+| Coming soon | My first project is on the way — check back soon! | — | — |
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -63,7 +63,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=malahim102&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
@@ -76,7 +76,7 @@
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-malahim-bhatti/" target="_blank">
@@ -87,4 +87,4 @@
   </a>
 </p>
 
-<p align="center"><i>⭐️ Following #100DaysOfAIML — check back weekly for new projects!</i></p>
+<p align="center"><i>Following #100DaysOfAIML — check back weekly for new projects!</i></p>
