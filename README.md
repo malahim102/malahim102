@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Malahim</h1>
+<h1 align="center">Hi, I'm Muhammad Malahim</h1>
 <h3 align="center">Aspiring AI/ML Engineer | Learning in Public | Building Real Projects</h3>
 
 <p align="center">
@@ -66,13 +66,9 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malahim102&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=malahim102&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malahim102&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
 
 ---
 
